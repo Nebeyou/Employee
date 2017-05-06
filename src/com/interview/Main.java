@@ -5,6 +5,7 @@ public class Main {
 		Employee emp=new Employee("nebeyou", 60000);
 		Employee emp2=new Employee("Gizachew", 0);
 		System.out.println(emp);
+		System.out.println(emp2);
 	}
 
 }
